@@ -1,0 +1,6 @@
+This is new page which contain the many information
+***************************************************
+name:swathi
+dob:08/04/98
+place:karkala
+qualification:Engineering
